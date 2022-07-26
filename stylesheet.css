@@ -12,3 +12,8 @@
 .header p{
   font-size: 15px;
 }
+
+.main h2{
+  border-bottom: 5px solid 	#FF0000;
+  font-size: 30px;
+}
