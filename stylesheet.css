@@ -1,3 +1,7 @@
+.body{
+  background:  red url(https://drive.google.com/file/d/1oAzaY2yklahsTqWm1O7eHVz1Zmf8NX-l/view?usp=drivesdk) repeat border-box contain content-box fixed;
+}
+
 .header {
   border-bottom: 3px solid white;
   font-family:"sans-serif";
